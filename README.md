@@ -43,6 +43,7 @@ is fictional but every governance decision reflects real regulatory requirements
 ---
 
 ## Contact
+- Email: deepaksethi.kumar@outlook.com
 - LinkedIn: linkedin.com/in/deepak-kumar-sethi-3b6266367
 - Location: Bhubaneswar, India
 - Open to: Remote contracts, freelance, full-time, internships
