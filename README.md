@@ -22,8 +22,8 @@ enterprise scenarios.
 |---|---------|-----------|--------|
 | 1 | AI System Inventory & Classification | EU AI Act + NIST AI RMF | Complete |
 | 2 | Risk Assessment & Governance Review | NIST AI RMF Map + Measure | Complete |
-| 3 | Responsible AI Policy & Operating Model | NIST AI RMF Govern | In Progress |
-| 4 | AI Incident Response & Escalation | NIST AI RMF Manage | Coming |
+| 3 | Responsible AI Policy & Operating Model | NIST AI RMF Govern | Complete |
+| 4 | AI Incident Response & Escalation | NIST AI RMF Manage | In Progress |
 | 5 | High Risk Documentation & Conformity Pack | EU AI Act Articles 9-17 | Coming |
 
 ---
